@@ -1,4 +1,5 @@
 # Introduction to Statistics by Stanford University
+Completed on September 27, 2022
 
 ## Topics covered
 Descriptive Statistics for Exploring Data,
